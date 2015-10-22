@@ -14,5 +14,10 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "~2.1.4"
-  }
+  },
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "README.md"
+  ]
 }
